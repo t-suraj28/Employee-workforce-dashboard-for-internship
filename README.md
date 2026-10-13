@@ -57,12 +57,12 @@ To analyze the cleaned employee dataset, calculate important statistics, identif
 #### 1. Department-wise Employee Distribution
 This chart compares the number of employees across different departments and helps identify departments with larger and smaller workforces.
 
-![Department-wise Employee Distribution](screenshots/department_chart.png)
+
 
 #### 2. Department-wise Average CTC Comparison
 This visualization compares average annual CTC across departments and highlights differences in salary levels.
 
-![Department-wise Average CTC](screenshots/salary_chart.png)
+
 
 ### 💡 Key Learnings
 - Improved my Excel data preparation skills using VLOOKUP.
